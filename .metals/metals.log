@@ -1,0 +1,24 @@
+2022.04.10 01:11:58 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\akash\Desktop\project\contest\.metals\lsp.trace.json or C:\Users\akash\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.04.10 01:11:59 INFO  logging to file C:\Users\akash\Desktop\project\contest\.metals\metals.log
+2022.04.10 01:11:59 INFO  Started: Metals version 0.11.2 in workspace 'C:\Users\akash\Desktop\project\contest' for client Visual Studio Code 1.66.0.
+2022.04.10 01:11:59 INFO  Parse release: 16.0.2
+2022.04.10 01:12:51 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\akash\Desktop\project\contest\.metals\lsp.trace.json or C:\Users\akash\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.04.10 01:12:52 INFO  logging to file C:\Users\akash\Desktop\project\contest\.metals\metals.log
+2022.04.10 01:12:52 INFO  Started: Metals version 0.11.2 in workspace 'C:\Users\akash\Desktop\project\contest' for client Visual Studio Code 1.66.0.
+2022.04.10 01:12:52 INFO  Parse release: 16.0.2
+2022.04.10 01:12:59 INFO  time: initialize in 6.72s
+2022.04.10 01:12:59 WARN  Build server is not auto-connectable.
+2022.04.10 01:12:59 WARN  no build tool detected in workspace 'C:\Users\akash\Desktop\project\contest'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.04.10 01:14:53 INFO  shutting down Metals
+2022.04.10 02:52:45 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\akash\Desktop\project\contest\.metals\lsp.trace.json or C:\Users\akash\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.04.10 02:52:46 INFO  logging to file C:\Users\akash\Desktop\project\contest\.metals\metals.log
+2022.04.10 02:52:46 INFO  Started: Metals version 0.11.2 in workspace 'C:\Users\akash\Desktop\project\contest' for client Visual Studio Code 1.66.1.
+2022.04.10 02:52:46 INFO  Parse release: 16.0.2
+2022.04.10 02:52:49 INFO  time: initialize in 2.51s
+2022.04.10 02:52:49 WARN  Build server is not auto-connectable.
+2022.04.10 02:52:49 WARN  no build tool detected in workspace 'C:\Users\akash\Desktop\project\contest'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.04.10 02:54:37 INFO  
+2022.04.10 02:54:37 INFO  Template applied in C:\Users\akash\Desktop\progrraming\.\sample
+2022.04.10 02:54:37 INFO  
+2022.04.10 02:54:37 INFO  time: ran 'giter8.Giter8' in 7.3s
+2022.04.10 14:19:20 INFO  shutting down Metals
